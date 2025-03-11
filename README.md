@@ -32,7 +32,7 @@ A full-stack blog application built using **React (frontend)** and **Django REST
 #### **Step 1: Clone the repository & Install dependencies**
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/react-django-blog.git
+git clone https://github.com/yourusername/django-react-fullstack.git
 cd react-django-blog/backend
 
 # Create a virtual environment
