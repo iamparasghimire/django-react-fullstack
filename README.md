@@ -33,7 +33,7 @@ A full-stack blog application built using **React (frontend)** and **Django REST
 ```sh
 # Clone the repository
 git clone https://github.com/yourusername/django-react-fullstack.git
-cd react-django-blog/backend
+cd django-react-fullstack
 
 # Create a virtual environment
 python -m venv venv
